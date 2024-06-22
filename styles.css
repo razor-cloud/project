@@ -1,0 +1,46 @@
+<style>
+    h1{
+        color:chocolate;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+     
+    h2{
+        color: aqua;
+        font-size: x-large;
+        height: 25px;
+        margin-top: 20px;
+    }
+    
+    ol{
+        color: aliceblue;
+        text-align: center;
+        text-transform: width 10px ;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    img{
+        max-width: 100%;
+        height:auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+    p{
+        color: beige;
+        text-align: justify;
+        font-size: medium;
+        font-weight: 600;
+        list-style: 5px;
+    }
+
+    p{
+        color: bisque;
+    }
+
+    footer{
+        text-align: center;
+    }
+</style>
